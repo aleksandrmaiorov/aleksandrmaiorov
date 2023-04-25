@@ -1,0 +1,15 @@
+name: Update badges
+
+on:
+  push:
+    branches:
+      - 'main'
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:       
+          CREDLY_USER: aleksandr-maiorov
