@@ -5,6 +5,7 @@
 
 
 <!--START_SECTION:badges-->
+[![AWS Educate Getting Started with Storage](https://images.credly.com/size/110x110/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png)](http://www.credly.com/badges/93912632-f1b9-4fce-94b4-f249f8548e4f "AWS Educate Getting Started with Storage")
 [![AWS Educate Getting Started with Databases](https://images.credly.com/size/110x110/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png)](http://www.credly.com/badges/9e124f97-b5ed-4ef3-9747-fb2356b31e80 "AWS Educate Getting Started with Databases")
 [![AWS Educate Getting Started with Networking](https://images.credly.com/size/110x110/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png)](http://www.credly.com/badges/aed1037a-666e-4680-b485-20bfaf23cf91 "AWS Educate Getting Started with Networking")
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/8e1b6d2d-e6c7-4f93-9111-043ecb85db15 "AWS Certified Developer – Associate")
