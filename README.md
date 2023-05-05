@@ -18,6 +18,10 @@
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/e3195886-2f2e-4163-aaf2-352570cf09cf "AWS Certified Solutions Architect – Associate")
 <!--END_SECTION:badges-->
 
+
+
+
+
 <!---
 aleksandrmaiorov/aleksandrmaiorov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
