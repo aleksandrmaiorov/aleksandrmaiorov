@@ -17,6 +17,7 @@
 [![HashiCorp Certified: Terraform Associate (002)](https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](http://www.credly.com/badges/1ee957c9-d2a5-4845-b5db-88c68e563472 "HashiCorp Certified: Terraform Associate (002)")
 [![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](http://www.credly.com/badges/b289b57c-af26-4d4c-a493-cd45b8ff987c "AWS Certified Solutions Architect – Professional")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/e3195886-2f2e-4163-aaf2-352570cf09cf "AWS Certified Solutions Architect – Associate")
+
 <!--END_SECTION:badges-->
 
 
