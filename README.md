@@ -6,6 +6,7 @@
 
 
 <!--START_SECTION:badges-->
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/7dedea4e-bde5-43f0-a732-dbc6aa3297d1 "AWS Certified Cloud Practitioner")
 [![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](http://www.credly.com/badges/a6cf7e50-9917-4687-94ab-8fed08852151 "AWS Certified DevOps Engineer – Professional")
 [![AWS Learning: File Storage](https://images.credly.com/size/110x110/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png)](http://www.credly.com/badges/914090e6-7e76-4dfa-897b-64f0f0744566 "AWS Learning: File Storage")
 [![AWS Educate Getting Started with Security](https://images.credly.com/size/110x110/images/80845928-d1f8-4549-ae9d-27676fba897e/image.png)](http://www.credly.com/badges/73b66f8c-6d7c-4a14-bc00-93e24a7e9546 "AWS Educate Getting Started with Security")
