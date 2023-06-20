@@ -6,6 +6,7 @@
 
 
 <!--START_SECTION:badges-->
+[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/1f5c48da-9d0d-43a7-ae55-e101003eaea9 "CKA: Certified Kubernetes Administrator")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/7dedea4e-bde5-43f0-a732-dbc6aa3297d1 "AWS Certified Cloud Practitioner")
 [![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](http://www.credly.com/badges/a6cf7e50-9917-4687-94ab-8fed08852151 "AWS Certified DevOps Engineer – Professional")
 [![AWS Learning: File Storage](https://images.credly.com/size/110x110/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png)](http://www.credly.com/badges/914090e6-7e76-4dfa-897b-64f0f0744566 "AWS Learning: File Storage")
