@@ -7,6 +7,7 @@
 
 
 <!--START_SECTION:badges-->
+[![AWS Certified: SAP on AWS – Specialty](https://images.credly.com/size/110x110/images/57bb7f6a-441f-4356-a2f1-7693227a475e/image.png)](http://www.credly.com/badges/eac354b8-4ad7-4eb7-b8a4-10315f1b55df "AWS Certified: SAP on AWS – Specialty")
 [![AWS Certified Database – Specialty](https://images.credly.com/size/110x110/images/885d38e4-55c0-4c35-b4ed-694e2b26be6c/image.png)](http://www.credly.com/badges/b394c5ac-3b00-469e-9aa7-e2095a7c2f7b "AWS Certified Database – Specialty")
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/6cde4278-0ce5-41b8-8a21-7627c47c6f22 "CKAD: Certified Kubernetes Application Developer")
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/1f5c48da-9d0d-43a7-ae55-e101003eaea9 "CKA: Certified Kubernetes Administrator")
