@@ -5,6 +5,7 @@
 
 
 
+
 <!--START_SECTION:badges-->
 [![AWS Certified Database – Specialty](https://images.credly.com/size/110x110/images/885d38e4-55c0-4c35-b4ed-694e2b26be6c/image.png)](http://www.credly.com/badges/b394c5ac-3b00-469e-9aa7-e2095a7c2f7b "AWS Certified Database – Specialty")
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/6cde4278-0ce5-41b8-8a21-7627c47c6f22 "CKAD: Certified Kubernetes Application Developer")
