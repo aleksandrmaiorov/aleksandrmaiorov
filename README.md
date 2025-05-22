@@ -4,8 +4,6 @@
 - 📫 How to reach me @ aleksandr@aleksandr.at or w3_aleksandr_at
 
 
-
-
 <!--START_SECTION:badges-->
 [![AWS Certified Machine Learning – Specialty](https://images.credly.com/size/110x110/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png)](http://www.credly.com/badges/7ef12d19-9919-4d0f-808b-d6b4bdbd6a2d "AWS Certified Machine Learning – Specialty")
 [![AWS Certified: SAP on AWS – Specialty](https://images.credly.com/size/110x110/images/57bb7f6a-441f-4356-a2f1-7693227a475e/image.png)](http://www.credly.com/badges/eac354b8-4ad7-4eb7-b8a4-10315f1b55df "AWS Certified: SAP on AWS – Specialty")
